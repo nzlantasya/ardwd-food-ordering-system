@@ -32,6 +32,3 @@ This project was also used to conduct a security assessment focusing on Paramete
 ## Screenshots
 
 Project screenshots are available in the `screenshots` folder.
-
-## Author
-Nazilatun Natasya Ramadhani :)
